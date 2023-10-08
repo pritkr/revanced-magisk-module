@@ -9,7 +9,7 @@ build-mode = "both"                                                   # 'both', 
 excluded-patches = "comments custom-player-overlay-opacity disable-auto-captions disable-zoom-haptics enable-debugging enable-tablet-layout hdr-auto-brightness hide-album-cards hide-autoplay-button hide-captions-button hide-endscreen-cards hide-filter-bar hide-info-cards hide-seekbar hide-timestamp wide-searchbar"                                                 # space-seperated patches to exclude (multiline strings are not supported)                                              # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
 version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
 build-mode = "both"
